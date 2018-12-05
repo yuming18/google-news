@@ -2,7 +2,7 @@ from google import google
 from lxml import etree
 from pyhanlp import *
 import requests
-#SHITTTTTTTT
+
 query = ["洗錢", "賄賂", "貪污", "詐欺", "走私", "犯罪", "內線交易", "市場操縱", "毒品"]
 #newspaper = ["聯合報", "經濟日報", "台灣蘋果日報", "中國時報", "自由時報", "工商時報", "聯合晚報"]
 newspaper = ["聯合晚報", "經濟日報", "聯合報"]
